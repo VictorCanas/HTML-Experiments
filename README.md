@@ -2,7 +2,8 @@
 
 This repository consits of programming assignemtnts done while taking CSIS 212 - Oject oriented Programming - Liberty Univeristy 
 
-Topics covered: 
+<strong>Topics covered:</strong>
+
 Week 1: <em>Introduction to Computers, the Internet & Java</em>
 Programming Assignment 1
 
