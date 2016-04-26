@@ -1,4 +1,4 @@
-# Java Programming Assignemtns
+# Java Programming Assignments
 
 <h3>This repository consits of programming assignemtnts done while taking CSIS 212 - Oject oriented Programming - Liberty Univeristy</h3> 
 
