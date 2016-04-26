@@ -5,6 +5,7 @@ This repository consits of programming assignemtnts done while taking CSIS 212 -
 Topics covered: 
 Week 1: <em>Introduction to Computers, the Internet & Java</em>
 -Programming Assignment 1
+
 Week 2 - 3: <em>Introduction to Java Applications; Input/Output & Operations</em>
 Week 3 - 5: <em>Control Statements: Part 1</em>
 Week 5 - 7: <em>Control Statements: Part 2</em>
